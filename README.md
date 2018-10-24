@@ -1,3 +1,3 @@
-# java_se-4th-tw-singleton-dojo
+# java singleton dojo
 
-Singleton Dojo for Java
+Create a single pool of printers
